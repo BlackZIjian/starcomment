@@ -1,0 +1,7 @@
+c:\users\administrator\documents\visual studio 2017\Projects\MysqlOp\MysqlOp\bin\Debug\MysqlOp.dll
+c:\users\administrator\documents\visual studio 2017\Projects\MysqlOp\MysqlOp\bin\Debug\MysqlOp.pdb
+c:\users\administrator\documents\visual studio 2017\Projects\MysqlOp\MysqlOp\bin\Debug\MySql.Data.dll
+c:\users\administrator\documents\visual studio 2017\Projects\MysqlOp\MysqlOp\bin\Debug\MySql.Data.xml
+c:\users\administrator\documents\visual studio 2017\Projects\MysqlOp\MysqlOp\obj\Debug\MysqlOp.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2017\Projects\MysqlOp\MysqlOp\obj\Debug\MysqlOp.dll
+c:\users\administrator\documents\visual studio 2017\Projects\MysqlOp\MysqlOp\obj\Debug\MysqlOp.pdb

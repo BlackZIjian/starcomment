@@ -1,0 +1,9 @@
+C:\Users\Administrator\documents\visual studio 2017\Projects\EntityManager\EntityManager\bin\Debug\EntityManager.dll
+C:\Users\Administrator\documents\visual studio 2017\Projects\EntityManager\EntityManager\bin\Debug\EntityManager.pdb
+C:\Users\Administrator\documents\visual studio 2017\Projects\EntityManager\EntityManager\bin\Debug\Entity.dll
+C:\Users\Administrator\documents\visual studio 2017\Projects\EntityManager\EntityManager\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\documents\visual studio 2017\Projects\EntityManager\EntityManager\bin\Debug\MysqlOp.dll
+C:\Users\Administrator\documents\visual studio 2017\Projects\EntityManager\EntityManager\bin\Debug\MySql.Data.xml
+C:\Users\Administrator\documents\visual studio 2017\Projects\EntityManager\EntityManager\obj\Debug\EntityManager.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2017\Projects\EntityManager\EntityManager\obj\Debug\EntityManager.dll
+C:\Users\Administrator\documents\visual studio 2017\Projects\EntityManager\EntityManager\obj\Debug\EntityManager.pdb
