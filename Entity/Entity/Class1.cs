@@ -14,7 +14,22 @@ namespace Entity
         public string name;
         public string password;
         public int manageAreaId;
-
+        public static User CreateUser(string name,string password,int manageAreaId)
+        {
+            MysqlManager.Instance().DefautConnect();
+            MySqlDataReader reader = MysqlManager.Instance().ExecuteReader("SELECT count(*) FROM muser;");
+            int num = 0;
+            while (reader.Read())
+            {
+                num = (int)reader[0];
+            }
+            User user = new User();
+            user.id = num + 1;
+            user.name = name;
+            user.password = password;
+            user.manageAreaId = manageAreaId;
+            return user;
+        }
         public void UpdateMysqlValue()
         {
             string cmd = "UPDATE muser SET userId=" + id.ToString() + ",userName='" + name + "',password='" + password + "',manageAraeId=" + manageAreaId.ToString() + "; WHERE userId=" + id.ToString() + ";";

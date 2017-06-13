@@ -7,3 +7,12 @@ c:\users\administrator\documents\visual studio 2017\Projects\Entity\Entity\bin\D
 c:\users\administrator\documents\visual studio 2017\Projects\Entity\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
 c:\users\administrator\documents\visual studio 2017\Projects\Entity\Entity\obj\Debug\Entity.dll
 c:\users\administrator\documents\visual studio 2017\Projects\Entity\Entity\obj\Debug\Entity.pdb
+E:\starcomment\Entity\Entity\bin\Debug\Entity.dll
+E:\starcomment\Entity\Entity\bin\Debug\Entity.pdb
+E:\starcomment\Entity\Entity\bin\Debug\MySql.Data.dll
+E:\starcomment\Entity\Entity\bin\Debug\MysqlOp.dll
+E:\starcomment\Entity\Entity\bin\Debug\MySql.Data.xml
+E:\starcomment\Entity\Entity\bin\Debug\MysqlOp.pdb
+E:\starcomment\Entity\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+E:\starcomment\Entity\Entity\obj\Debug\Entity.dll
+E:\starcomment\Entity\Entity\obj\Debug\Entity.pdb

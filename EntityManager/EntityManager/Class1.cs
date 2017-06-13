@@ -42,5 +42,18 @@ namespace EntityManager
                 return user;
             }
         }
+        
+        public void AddUser(User user)
+        {
+            userDict[user.id] = user;
+        }
+
+        public void RemoveUser(int id)
+        {
+            if(userDict.ContainsKey(id))
+            {
+                userDict.Remove(id);
+            }
+        }
     }
 }

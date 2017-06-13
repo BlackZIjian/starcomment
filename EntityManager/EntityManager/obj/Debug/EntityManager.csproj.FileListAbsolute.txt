@@ -7,3 +7,12 @@ C:\Users\Administrator\documents\visual studio 2017\Projects\EntityManager\Entit
 C:\Users\Administrator\documents\visual studio 2017\Projects\EntityManager\EntityManager\obj\Debug\EntityManager.csprojResolveAssemblyReference.cache
 C:\Users\Administrator\documents\visual studio 2017\Projects\EntityManager\EntityManager\obj\Debug\EntityManager.dll
 C:\Users\Administrator\documents\visual studio 2017\Projects\EntityManager\EntityManager\obj\Debug\EntityManager.pdb
+E:\starcomment\EntityManager\EntityManager\bin\Debug\EntityManager.dll
+E:\starcomment\EntityManager\EntityManager\bin\Debug\EntityManager.pdb
+E:\starcomment\EntityManager\EntityManager\bin\Debug\Entity.dll
+E:\starcomment\EntityManager\EntityManager\bin\Debug\MySql.Data.dll
+E:\starcomment\EntityManager\EntityManager\bin\Debug\MysqlOp.dll
+E:\starcomment\EntityManager\EntityManager\bin\Debug\MySql.Data.xml
+E:\starcomment\EntityManager\EntityManager\obj\Debug\EntityManager.csprojResolveAssemblyReference.cache
+E:\starcomment\EntityManager\EntityManager\obj\Debug\EntityManager.dll
+E:\starcomment\EntityManager\EntityManager\obj\Debug\EntityManager.pdb
