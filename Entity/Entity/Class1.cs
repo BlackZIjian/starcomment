@@ -51,6 +51,21 @@ namespace Entity
             }
             return user;
         }
+
+        public static User GetFromMySql(string name)
+        {
+            MysqlManager.Instance().DefautConnect();
+            MySqlDataReader reader = MysqlManager.Instance().ExecuteReader("SELECT * FROM muser WHERE userName = " + name + ";");
+            User user = new User();
+            while (reader.Read())
+            {
+                user.id = (int)reader[0];
+                user.name = (string)reader[1];
+                user.password = (string)reader[2];
+                user.manageAreaId = (int)reader[3];
+            }
+            return user;
+        }
     }
 
     public class Comment
